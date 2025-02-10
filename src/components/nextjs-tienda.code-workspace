@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "nextjs-tienda",
+			"path": "../.."
+		},
+		{
+			"name": "laravel_tiendaOnline",
+			"path": "../../../laravel_tiendaOnline"
+		}
+	],
+	"settings": {}
+}

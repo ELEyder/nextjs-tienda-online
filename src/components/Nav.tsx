@@ -12,7 +12,7 @@ export default function Nav() {
   return (
     !isForm ? (
       <header>
-        <nav className="bg-gray-800 text-white p-4 w-full ">
+        <nav className="bg-[var(--cp)] text-white p-4 w-full sticky top-0 z-10">
           <ul className="flex flex-row gap-8">
             <li>
               <Link href="/">Home</Link>
